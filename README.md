@@ -64,3 +64,42 @@ Este proyecto es mi portfolio personal, construido con **Next.js** (React) para 
    ```bash
    git clone https://github.com/MisteryPoints/myportfolio.git
    cd myportfolio
+   ```
+
+2. Configura las variables de entorno:
+ Crea un archivo .env en ambas carpetas (frontend y backend) y configura las variables necesarias (puedes usar el archivo .env.example como referencia).
+
+3. Inicia el backend:
+    ```bash
+    cd backend
+    go run main.go
+    ```
+4. Inicia el frontend:
+    ```bash
+    cd frontend
+    npm install
+    npm run dev
+    ```
+5. Accede a la aplicación en http://localhost:3000.
+
+---
+
+## 🤝 Contribuciones
+¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
+
+---
+
+## 📧 Contacto
+Si deseas contactarme para oportunidades laborales, colaboraciones o simplemente para charlar sobre tecnología, puedes encontrarme en:
+
+  - LinkedIn: https://linkedin.com/devpoint
+  - Correo electrónico: misterypoint2@gmail.com
+  - GitHub: https:/github.com/MisteryPoints
+
+---
+
+## 🙌 Agradecimientos
+Agradezco a la comunidad de desarrolladores por compartir recursos y conocimientos que me han ayudado a crecer profesionalmente. Este proyecto es un homenaje a esa colaboración constante.
+
+"El código es poesía, y cada línea cuenta una historia."
+— Anónimo 
